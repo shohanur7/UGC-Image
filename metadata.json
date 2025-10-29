@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Scene Creator",
+  "description": "Upload a product image and an AI influencer image to generate beautiful, realistic product usage scenes. The AI intelligently combines the images to create photorealistic lifestyle shots.",
+  "requestFramePermissions": []
+}
